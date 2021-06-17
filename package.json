@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Trard/test/issues"
   },
-  "homepage": "https://github.com/Trard/test#readme"
+  "homepage": "https://github.com/Trard/test#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
 }
