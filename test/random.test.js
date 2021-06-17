@@ -1,6 +1,8 @@
 const { get_random_size_array } = require('../src/random');
 
 test('random test', () => {
-    console.log(get_random_size_array());
-    expect(get_random_size_array());
+    get_random_size_array(5).map((token) => {
+        expect(token)
+            .toHaveLength(3)
+    });
 });
