@@ -1,7 +1,7 @@
-const get_random_array = () => {
+const get_random_size_array = (limit) => {
     let array = [];
     
-    for (let i; i<5; i = i + Math.random()) {
+    for ( let i; i < limit; i = i + Math.random() ) {
         array.push(1);
     };
 
