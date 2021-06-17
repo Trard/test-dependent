@@ -9,5 +9,5 @@ const get_random_size_array = (limit) => {
 };
 
 module.exports = {
-    get_random_array,
+    get_random_size_array,
 };
