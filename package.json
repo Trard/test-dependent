@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trard/test.git"
+  },
+  "author": "Trard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trard/test/issues"
+  },
+  "homepage": "https://github.com/Trard/test#readme"
+}
