@@ -1,3 +1,4 @@
 # CICD-tests
 
-[![CICD](https://github.com/Trard/CICD-tests/actions/workflows/CICD.yml/badge.svg)](https://github.com/Trard/CICD-tests/actions/workflows/CICD.yml)
+[![CI](https://github.com/Trard/CICD-tests/actions/workflows/CI.yml/badge.svg)](https://github.com/Trard/CICD-tests/actions/workflows/CI.yml)
+[![npm CD](https://github.com/Trard/CICD-tests/actions/workflows/CD.yml/badge.svg)](https://github.com/Trard/CICD-tests/actions/workflows/CD.yml)
