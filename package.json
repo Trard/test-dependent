@@ -1,5 +1,5 @@
 {
-  "name": "CICD-tests",
+  "name": "cicd-tests",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
