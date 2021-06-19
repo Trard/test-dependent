@@ -1,5 +1,3 @@
 # CICD-tests
 
-<p align="center">
-  <a href="https://github.com/Trard/ci-tests/actions?query=workflow:CICD"><img src="https://github.com/Trard/ci-tests/workflows/CICD/badge.svg" alt="Build Status"></a>
-</p>
+[![CICD](https://github.com/Trard/CICD-tests/actions/workflows/CICD.yml/badge.svg)](https://github.com/Trard/CICD-tests/actions/workflows/CICD.yml)
