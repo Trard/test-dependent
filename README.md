@@ -10,8 +10,6 @@ Test repo for testing tests.
 Using npm:
 ```shell
 npm i cicd-tests
-cd CICD-tests
-npm i
 ```
 
 ## Using
