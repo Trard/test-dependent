@@ -12,6 +12,11 @@ Using npm:
 npm i cicd-tests
 ```
 
+Using yarn:
+```shell
+yarn add cicd-tests
+```
+
 ## Using
 ```shell
 npm run test
