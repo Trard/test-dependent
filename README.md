@@ -7,7 +7,7 @@ Test repo for testing tests.
 
 ## Installation
 
-using npm:
+Using npm:
 ```shell
 npm i cicd-tests
 ```
