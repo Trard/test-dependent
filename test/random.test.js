@@ -1,4 +1,4 @@
-const { get_random_size_array } = require("../src/random");
+const { get_random_size_array } = require('../src/random');
 
 expect.extend({
     toBeWithinRange(received, floor, ceiling) {
@@ -19,20 +19,18 @@ expect.extend({
     },
 });
 
-test("size of random size array", () => {
+test('size of random size array', () => {
     let random_size_array = get_random_size_array(1, 10);
 
     //size array
-    expect(random_size_array.length)
-        .toBeWithinRange(1, 10)
+    expect(random_size_array.length).toBeWithinRange(1, 10);
 });
 
-test("size items of random size array", () => {
-    let random_size_array = get_random_size_array(1, 10)
+test('size items of random size array', () => {
+    let random_size_array = get_random_size_array(1, 10);
 
     //size items of array
     random_size_array.map((token) => {
-        expect(token)
-        .toHaveLength(3)
+        expect(token).toHaveLength(3);
     });
 });

@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 const getRandomIntInclusive = (min, max) => {
     let min_ceil = Math.ceil(min);
@@ -10,7 +10,7 @@ const get_random_size_array = (min, max) => {
     let array = [];
 
     for (let i = 0; i < getRandomIntInclusive(min, max); i++) {
-        array.push("143");
+        array.push('143');
     }
 
     return array;
