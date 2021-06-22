@@ -10,9 +10,10 @@ Test repo for testing tests.
 Using npm:
 ```shell
 npm i cicd-tests
+npm i
 ```
 
 ## Using
 ```shell
-npm test
+npm run test
 ```
