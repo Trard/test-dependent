@@ -12,14 +12,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Trard/test.git"
+        "url": "git+https://github.com/Trard/CICD-tests.git"
     },
     "author": "Trard",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Trard/test/issues"
+        "url": "https://github.com/Trard/CICD-tests/issues"
     },
-    "homepage": "https://github.com/Trard/test#readme",
+    "homepage": "https://github.com/Trard/CICD-tests#readme",
     "devDependencies": {
         "husky": "^6.0.0",
         "jest": "^27.0.4",
