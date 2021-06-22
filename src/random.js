@@ -11,12 +11,6 @@ const get_random_size_array = (min, max) => {
 
     for (let i = 0; i < getRandomIntInclusive(min, max); i++) {
         array.push("143");
-
-
-
-
-
-        
     }
 
     return array;
