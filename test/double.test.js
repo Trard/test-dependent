@@ -1,4 +1,4 @@
-const { double } = require('../src/double');
+const { double } = require('../src/doubler');
 
 test('size of doubled size array', () => {
     let test_array = [1, 2, 3];
