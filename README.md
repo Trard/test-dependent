@@ -26,7 +26,7 @@ docker pull trard/test-dependent
 Using npm:
 
 ```shell
-npm run test
+npm run start
 ```
 
 Using docker:
