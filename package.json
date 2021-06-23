@@ -2,28 +2,34 @@
     "name": "cicd-tests",
     "version": "1.4.0",
     "description": "Test repo for testing tests",
-    "main": "index.js",
+    "main": "lib/index.js",
+    "files": [
+        "LICENSE",
+        "Readme.md",
+        "lib/"
+    ],
     "scripts": {
+        "start": "node src/index.js",
         "test": "jest",
         "check": "prettier --check \"src/**/*.{js,jsx}\"",
         "format": "prettier --write \"src/**/*.{js,jsx}\"",
         "pretty-quick": "pretty-quick",
         "prepare": "husky install"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Trard/CICD-tests.git"
-    },
-    "author": "Trard",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Trard/CICD-tests/issues"
-    },
-    "homepage": "https://github.com/Trard/CICD-tests#readme",
     "devDependencies": {
         "husky": "^6.0.0",
         "jest": "^27.0.4",
         "prettier": "^2.3.1",
         "pretty-quick": "^3.1.1"
-    }
+    },
+    "author": "Trard",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Trard/CICD-tests.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Trard/CICD-tests/issues"
+    },
+    "homepage": "https://github.com/Trard/CICD-tests#readme"
 }

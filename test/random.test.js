@@ -1,4 +1,4 @@
-const { get_random_size_array } = require('../src/random');
+const { get_random_size_array } = require('../lib/random_size_array');
 
 expect.extend({
     toBeWithinRange(received, floor, ceiling) {

@@ -8,4 +8,4 @@ COPY . /CICD-tests
 RUN cd /CICD-tests
 RUN npm install
 
-CMD npm run test
+CMD npm run
