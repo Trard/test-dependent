@@ -12,6 +12,7 @@ Using git:
 ```shell
 git clone https://github.com/Trard/test-dependent.git
 cd test-dependent/
+npm install
 ```
 
 Using docker:
