@@ -6,6 +6,6 @@ WORKDIR /CICD-tests
 COPY . /CICD-tests
 
 RUN cd /CICD-tests
-RUN npm install
+RUN npm install --only=prod
 
 CMD npm run start
