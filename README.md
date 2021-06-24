@@ -6,12 +6,12 @@
 Test [Dependent](https://github.com/Trard/test-dependent) for [Dependence](https://github.com/Trard/test-dependence).
 
 # Getting started
-  - [Installation](https://github.com/trard/test-dependent/blob/master/README.md#installation)
-  - [Run](https://github.com/trard/test-dependent/blob/master/README.md#run)
+  1. [Installation](https://github.com/trard/test-dependent/blob/master/README.md#installation)
+  2. [Run](https://github.com/trard/test-dependent/blob/master/README.md#run)
 
 ## Installation
-- [Docker](https://github.com/trard/test-dependent/blob/master/README.md#docker)
-- [Github](https://github.com/trard/test-dependent/blob/master/README.md#github)
+  - [Docker](https://github.com/trard/test-dependent/blob/master/README.md#docker)
+  - [Github](https://github.com/trard/test-dependent/blob/master/README.md#github)
 
 ### Docker
 ```shell
@@ -19,8 +19,8 @@ docker pull trard/test-dependent
 ```
 
 ### Github
-- [Clone](https://github.com/trard/test-dependent/blob/master/README.md#clone)
-- [Dependencies](https://github.com/trard/test-dependent/blob/master/README.md#dependencies)
+1. [Clone](https://github.com/trard/test-dependent/blob/master/README.md#clone)
+2. [Dependencies](https://github.com/trard/test-dependent/blob/master/README.md#dependencies)
 
 ### Clone
 ```shell
