@@ -22,38 +22,23 @@ docker pull trard/test-dependent
 1. [Clone](https://github.com/trard/test-dependent/blob/master/README.md#clone)
 2. [Dependencies](https://github.com/trard/test-dependent/blob/master/README.md#dependencies)
 
-### Clone
+#### Clone
 ```shell
 git clone https://github.com/Trard/test-dependent.git
 ```
 
-### Dependencies
-- [NPM](https://github.com/trard/test-dependent/blob/master/README.md#npm)
-- [Yarn](https://github.com/trard/test-dependent/blob/master/README.md#yarn)
-
-#### NPM
+#### Install Dependencies
 ```shell
 npm i
 ```
 
-#### Yarn
-```shell
-yarn
-```
-
 ## Run
 - [NPM](https://github.com/trard/test-dependent/blob/master/README.md#npm-1)
-- [Yarn](https://github.com/trard/test-dependent/blob/master/README.md#yarn-1)
 - [Docker](https://github.com/trard/test-dependent/blob/master/README.md#docker-1)
 
 ### NPM
 ```shell
 npm run start
-```
-
-### Yarn
-```shell
-yarn run start
 ```
 
 ### Docker
