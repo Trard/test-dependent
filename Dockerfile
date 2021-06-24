@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
-FROM ubuntu:20.04
-FROM node:16
+FROM alpine:3.11 
+FROM node:16-alpine3.11
 
 WORKDIR /CICD-tests
 COPY . /CICD-tests
