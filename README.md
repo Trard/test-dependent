@@ -29,7 +29,7 @@ git clone https://github.com/Trard/test-dependent.git
 
 #### Install Dependencies
 ```shell
-npm i
+npm i --only=prod
 ```
 
 ## Run
