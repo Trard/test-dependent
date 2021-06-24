@@ -1,6 +1,6 @@
 {
     "name": "test-dependent",
-    "version": "1.8.3",
+    "version": "1.9.0",
     "description": "Test dependent for dependence",
     "main": "src/index.js",
     "files": [
