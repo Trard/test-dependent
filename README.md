@@ -4,7 +4,7 @@ Test [Dependent](https://github.com/Trard/test-dependent) for [Dependence](https
 [![CI](https://github.com/Trard/test-dependent/actions/workflows/CI.yml/badge.svg)](https://github.com/Trard/test-dependent/actions/workflows/CI.yml)
 [![CD](https://github.com/Trard/test-dependent/actions/workflows/CD.yml/badge.svg)](https://github.com/Trard/test-dependent/actions/workflows/CD.yml)
 
-# Contents
+## Contents
 1. [Installation](https://github.com/trard/test-dependent/blob/master/README.md#installation)
     - [Docker](https://github.com/trard/test-dependent/blob/master/README.md#docker)
     - [Github](https://github.com/trard/test-dependent/blob/master/README.md#github)
@@ -14,33 +14,33 @@ Test [Dependent](https://github.com/Trard/test-dependent) for [Dependence](https
     - [NPM](https://github.com/trard/test-dependent/blob/master/README.md#npm-1)
     - [Docker](https://github.com/trard/test-dependent/blob/master/README.md#docker-1)
 
-# Installation
+## Installation
 
-## Docker
+### Docker
 ```shell
 docker pull trard/test-dependent
 ```
 
-## Github
+### Github
 
-### Clone
+#### Clone
 ```shell
 git clone https://github.com/Trard/test-dependent.git
 ```
 
-### Install Dependencies
+#### Install Dependencies
 ```shell
 npm i --only=prod
 ```
 
-# Run
+## Run
 
-## NPM
+### NPM
 ```shell
 npm run start
 ```
 
-## Docker
+### Docker
 ```shell
 docker run trard/test-dependent
 ```
