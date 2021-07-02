@@ -1,11 +1,10 @@
 # Test-Dependent
+Test [Dependent](https://github.com/Trard/test-dependent) for [Dependence](https://github.com/Trard/test-dependence).
 
 [![CI](https://github.com/Trard/test-dependent/actions/workflows/CI.yml/badge.svg)](https://github.com/Trard/test-dependent/actions/workflows/CI.yml)
 [![CD](https://github.com/Trard/test-dependent/actions/workflows/CD.yml/badge.svg)](https://github.com/Trard/test-dependent/actions/workflows/CD.yml)
 
-Test [Dependent](https://github.com/Trard/test-dependent) for [Dependence](https://github.com/Trard/test-dependence).
-
-# Table of contents
+# Contents
 1. [Installation](https://github.com/trard/test-dependent/blob/master/README.md#installation)
     - [Docker](https://github.com/trard/test-dependent/blob/master/README.md#docker)
     - [Github](https://github.com/trard/test-dependent/blob/master/README.md#github)
